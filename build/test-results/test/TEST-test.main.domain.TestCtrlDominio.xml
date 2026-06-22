@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.TestCtrlDominio" tests="31" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:31" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.192">
+  <properties/>
+  <testcase name="testDeseleccionarEncuesta" classname="test.main.domain.TestCtrlDominio" time="0.121"/>
+  <testcase name="testAnalizarEncuestaValida" classname="test.main.domain.TestCtrlDominio" time="0.021"/>
+  <testcase name="testGuardarRespuesta" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testAnalizarEncuestaConRespuestasDeOtraEncuesta" classname="test.main.domain.TestCtrlDominio" time="0.01"/>
+  <testcase name="testSetDescripcionPreguntaSeleccionada" classname="test.main.domain.TestCtrlDominio" time="0.002"/>
+  <testcase name="testModificarPreguntaTextoSeleccionada" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testImportarEncuesta" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testRemovePreguntaActual" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testImportarRespuesta" classname="test.main.domain.TestCtrlDominio" time="0.002"/>
+  <testcase name="testElegirAlgoritmoAnalisis_AlgoritmoInvalido" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testModificarPreguntaTipoPorId" classname="test.main.domain.TestCtrlDominio" time="0.005"/>
+  <testcase name="testBorrarRespuestaActual_ConReferenciaAlPerfil" classname="test.main.domain.TestCtrlDominio" time="0.002"/>
+  <testcase name="testAnalizarEncuestaSinRespuestas" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testSetK_Invalido" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testCrearEncuesta" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testSetObligatorioPreguntaSeleccionada" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testRemovePreguntaById" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testModificarPreguntaTipoSeleccionada" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testCrearPregunta_FlujoCompleto" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testElegirAlgoritmoAnalisis_InicializadorInvalido" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testCrearPerfil" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testCrearEncuestaSinPerfilLanzaExcepcion" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testComprobarPasswordIncorrectaDeseleccionaPerfil" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testCancelarSeleccionPregunta" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testImportarPerfil" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testResponderEncuesta" classname="test.main.domain.TestCtrlDominio" time="0.002"/>
+  <testcase name="testGuardarEncuesta" classname="test.main.domain.TestCtrlDominio" time="0.0"/>
+  <testcase name="testAddPregunta" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testElegirAlgoritmoAnalisis_Incompatibles" classname="test.main.domain.TestCtrlDominio" time="0.004"/>
+  <testcase name="testSeleccionarPreguntaPorId" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <testcase name="testGetEncuestaEnMemoria" classname="test.main.domain.TestCtrlDominio" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

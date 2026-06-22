@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.analisis.TestComparador" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:31" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.005">
+  <properties/>
+  <testcase name="testCentroide" classname="test.main.domain.analisis.TestComparador" time="0.003"/>
+  <testcase name="testDistancia" classname="test.main.domain.analisis.TestComparador" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

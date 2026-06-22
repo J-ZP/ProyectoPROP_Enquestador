@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.TestCtrlRespuesta" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:31" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.019">
+  <properties/>
+  <testcase name="testCrearRespuesta" classname="test.main.domain.TestCtrlRespuesta" time="0.0"/>
+  <testcase name="testAlInicializar" classname="test.main.domain.TestCtrlRespuesta" time="0.001"/>
+  <testcase name="testCargarRespuestaInexistente" classname="test.main.domain.TestCtrlRespuesta" time="0.0"/>
+  <testcase name="testDeseleccionarRespuesta" classname="test.main.domain.TestCtrlRespuesta" time="0.001"/>
+  <testcase name="testBorrarRespuestaActualVacia" classname="test.main.domain.TestCtrlRespuesta" time="0.0"/>
+  <testcase name="testAddDatoRespuesta" classname="test.main.domain.TestCtrlRespuesta" time="0.006"/>
+  <testcase name="testCrearGuardarYCargarRespuesta" classname="test.main.domain.TestCtrlRespuesta" time="0.009"/>
+  <testcase name="testBorrarRespuestaActual" classname="test.main.domain.TestCtrlRespuesta" time="0.001"/>
+  <testcase name="testAddDatoRespuestaSinRespuestaActual" classname="test.main.domain.TestCtrlRespuesta" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

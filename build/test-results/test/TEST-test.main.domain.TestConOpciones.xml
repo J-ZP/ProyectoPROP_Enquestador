@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.TestConOpciones" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:31" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.166">
+  <properties/>
+  <testcase name="testCreadora" classname="test.main.domain.TestConOpciones" time="0.143"/>
+  <testcase name="testSetNumRespuestas" classname="test.main.domain.TestConOpciones" time="0.001"/>
+  <testcase name="testValidar" classname="test.main.domain.TestConOpciones" time="0.017"/>
+  <testcase name="testRemoveOpcion" classname="test.main.domain.TestConOpciones" time="0.002"/>
+  <testcase name="testAddOpcion" classname="test.main.domain.TestConOpciones" time="0.001"/>
+  <testcase name="testIsValid" classname="test.main.domain.TestConOpciones" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

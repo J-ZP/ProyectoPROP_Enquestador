@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.TestPerfil" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:31" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.002">
+  <properties/>
+  <testcase name="testCreadora" classname="test.main.domain.TestPerfil" time="0.0"/>
+  <testcase name="testAddersAndRemovers" classname="test.main.domain.TestPerfil" time="0.001"/>
+  <testcase name="testSetters" classname="test.main.domain.TestPerfil" time="0.001"/>
+  <testcase name="testCreadoraEmailInvalido" classname="test.main.domain.TestPerfil" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

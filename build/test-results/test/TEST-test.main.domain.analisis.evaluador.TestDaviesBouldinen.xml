@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.analisis.evaluador.TestDaviesBouldinen" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:31" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.011">
+  <properties/>
+  <testcase name="testCalinskiHarabaszStrong" classname="test.main.domain.analisis.evaluador.TestDaviesBouldinen" time="0.007"/>
+  <testcase name="testCalinskiHarabaszWeak" classname="test.main.domain.analisis.evaluador.TestDaviesBouldinen" time="0.003"/>
+  <system-out><![CDATA[evaluacion: 0.25
+evaluacion: 0.5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

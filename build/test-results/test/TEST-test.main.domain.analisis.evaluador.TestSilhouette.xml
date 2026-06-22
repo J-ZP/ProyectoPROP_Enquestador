@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.analisis.evaluador.TestSilhouette" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:32" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.013">
+  <properties/>
+  <testcase name="testSilhouetteStrong" classname="test.main.domain.analisis.evaluador.TestSilhouette" time="0.008"/>
+  <testcase name="testSilhouetteWeak" classname="test.main.domain.analisis.evaluador.TestSilhouette" time="0.005"/>
+  <system-out><![CDATA[evaluacion: 0.77202505
+evaluacion: 0.47465125
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

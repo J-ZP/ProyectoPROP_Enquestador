@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.types.TestTDatosOpciones" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:32" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.002">
+  <properties/>
+  <testcase name="testDesigualdadTriangularCualitativaOrdenada" classname="test.main.domain.types.TestTDatosOpciones" time="0.001"/>
+  <testcase name="testDesigualdadTriangularCualitativaNoOrdenada" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testCalcularDistanciaExcepcionNumeroModalidadesMenorQueDos" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testCalcularDistanciaCualitativaNoOrdenada" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testCalcularDistanciaCualitativaVarias" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testIgualdadCualitativaVarias" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testCalcularDistanciaCualitativaOrdenada" classname="test.main.domain.types.TestTDatosOpciones" time="0.001"/>
+  <testcase name="testIgualdadCualitativaOrdenada" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testDesigualdadTriangularCualitativaVarias" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testCalcularDistanciaExcepcionUnionEntreConjuntosDeOpcionesVacio" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testGetComponenteCentroideCualitativaConVariosValores" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testGetComponenteCentroideCualitativaConUnValor" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testCreadoraPorParametros" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <testcase name="testIgualdadCualitativaNoOrdenada" classname="test.main.domain.types.TestTDatosOpciones" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

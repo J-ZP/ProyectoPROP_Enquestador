@@ -10,6 +10,6 @@ Este es el proyecto de la asignatura de "Proyecto de Programación" del grado de
 - Andrés Lafuente Patau
 
 ## Uso
-Para ejecutar la aplicación, hace falta compilar el código fuente. 
+Para ejecutar la aplicación, hace falta compilar el código fuente.  Esto se puede hacer fácilmente usando el comando "./gradlew build" .
 
-Una vez compilado la aplicación, desde la terminal ejecutar el comando “java -jar EnquestadorCluster22.4-3.0.jar”.
+Una vez compilado la aplicación, esta se encuentra en el directorio build/libs/, desde allí, se puede ejecutar la aplicación usando "java -jar EnquestadorCluster22.4-3.0.jar".

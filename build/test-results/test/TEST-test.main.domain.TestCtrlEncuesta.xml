@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.main.domain.TestCtrlEncuesta" tests="27" skipped="0" failures="0" errors="0" timestamp="2026-06-22T16:56:31" hostname="javier-Victus-by-HP-Laptop-16-e0xxx" time="0.058">
+  <properties/>
+  <testcase name="testRemovePreguntaByIdSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testDeseleccionarEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.016"/>
+  <testcase name="testSeleccionarPreguntaPorIdSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testSetDescripcionPreguntaSeleccionada" classname="test.main.domain.TestCtrlEncuesta" time="0.004"/>
+  <testcase name="testModificarPreguntaTextoSeleccionada" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testRemovePreguntaActual" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testDeseleccionarEncuestaSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testModificarPreguntaTipoPorIdInexistente" classname="test.main.domain.TestCtrlEncuesta" time="0.003"/>
+  <testcase name="testRemovePreguntaInexistente" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testRemovePreguntaActualSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testCrearEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testCancelarSeleccionSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.0"/>
+  <testcase name="testGetPreguntaByIdSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.0"/>
+  <testcase name="testSetObligatorioPreguntaSeleccionada" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testGuardarEncuestaYCargarEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.01"/>
+  <testcase name="testSeleccionarPreguntaPorIdYCancelarSeleccion" classname="test.main.domain.TestCtrlEncuesta" time="0.002"/>
+  <testcase name="testSetObligatorioPreguntaSeleccionadaSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testModificarPreguntaTipoSeleccionadaSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.0"/>
+  <testcase name="testModificarPreguntaTextoSeleccionadaSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testModificarPreguntaTipoSeleccionada" classname="test.main.domain.TestCtrlEncuesta" time="0.002"/>
+  <testcase name="testAddYRemovePregunta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testSeleccionarPreguntaPorIdInexistente" classname="test.main.domain.TestCtrlEncuesta" time="0.005"/>
+  <testcase name="testSetDescripcionPreguntaSeleccionadaSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.0"/>
+  <testcase name="testFindPreguntaByIdSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testGuardarEncuestaSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.0"/>
+  <testcase name="testFindPreguntaById" classname="test.main.domain.TestCtrlEncuesta" time="0.001"/>
+  <testcase name="testAddPreguntaSinEncuesta" classname="test.main.domain.TestCtrlEncuesta" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
